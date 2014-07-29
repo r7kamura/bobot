@@ -55,6 +55,8 @@ GEM
       activesupport
       chrono
       ruboty (>= 0.2.0)
+    ruboty-gamification (0.0.1)
+      ruboty
     ruboty-github (0.1.0)
       activesupport
       octokit
@@ -111,6 +113,7 @@ DEPENDENCIES
   ruboty!
   ruboty-alias
   ruboty-cron
+  ruboty-gamification
   ruboty-github
   ruboty-google_image
   ruboty-japan_weather
