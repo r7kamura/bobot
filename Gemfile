@@ -13,5 +13,5 @@ gem "ruboty-redis"
 gem "ruboty-slack"
 gem "ruboty-syoboi_calendar"
 gem "ruboty-scorekeeper"
-gem 'ruboty-gamification'
+gem "ruboty-gamification"
 gem "ruboty-zoi"
