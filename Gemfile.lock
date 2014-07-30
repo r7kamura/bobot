@@ -85,6 +85,10 @@ GEM
       activesupport
       ruboty
       syoboi_calendar (= 0.3.1)
+    ruboty-tumblr_image (0.0.1)
+      faraday
+      faraday_middleware
+      ruboty
     ruboty-zoi (1.1.0)
       ruboty
     sawyer (0.5.4)
@@ -124,4 +128,5 @@ DEPENDENCIES
   ruboty-scorekeeper
   ruboty-slack
   ruboty-syoboi_calendar
+  ruboty-tumblr_image
   ruboty-zoi (~> 1.1.0)
