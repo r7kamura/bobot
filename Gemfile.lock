@@ -85,7 +85,7 @@ GEM
       activesupport
       ruboty
       syoboi_calendar (= 0.3.1)
-    ruboty-tumblr_image (0.0.1)
+    ruboty-tumblr_image (0.0.2)
       faraday
       faraday_middleware
       ruboty
