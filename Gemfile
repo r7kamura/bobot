@@ -16,3 +16,4 @@ gem "ruboty-scorekeeper"
 gem "ruboty-gamification"
 gem "ruboty-zoi", "~> 1.1.0"
 gem "ruboty-tumblr_image"
+gem "ruboty-imascg", github: 'sorah/ruboty-imascg'

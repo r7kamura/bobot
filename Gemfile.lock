@@ -1,4 +1,11 @@
 GIT
+  remote: git://github.com/sorah/ruboty-imascg.git
+  revision: e75c74b01b95d463893dda4108f01ca8c21d6e8f
+  specs:
+    ruboty-imascg (0.0.1)
+      ruboty
+
+GIT
   remote: git://github.com/sorah/ruboty.git
   revision: 1ff6b3da03c0bc6139144f3a23663673c8acdc8d
   ref: cant-compare-boolean
@@ -122,6 +129,7 @@ DEPENDENCIES
   ruboty-gamification
   ruboty-github
   ruboty-google_image
+  ruboty-imascg!
   ruboty-japan_weather
   ruboty-lgtm
   ruboty-redis
