@@ -6,6 +6,14 @@ GIT
       ruboty
 
 GIT
+  remote: git://github.com/sorah/ruboty-imasml.git
+  revision: 345b1a28c1e7869fa572e74b6dc14a56bdd8d130
+  specs:
+    ruboty-imasml (0.0.1)
+      nokogiri
+      ruboty
+
+GIT
   remote: git://github.com/sorah/ruboty.git
   revision: 1ff6b3da03c0bc6139144f3a23663673c8acdc8d
   ref: cant-compare-boolean
@@ -132,6 +140,7 @@ DEPENDENCIES
   ruboty-github
   ruboty-google_image
   ruboty-imascg!
+  ruboty-imasml!
   ruboty-japan_weather
   ruboty-lgtm
   ruboty-redis
