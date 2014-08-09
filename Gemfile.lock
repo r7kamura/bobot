@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git://github.com/sorah/ruboty-imasml.git
-  revision: 345b1a28c1e7869fa572e74b6dc14a56bdd8d130
+  revision: 651af704014a4a8e6ffa30523da1d66dbab2ba2d
   specs:
     ruboty-imasml (0.0.1)
       nokogiri
@@ -119,7 +119,7 @@ GEM
       hashie
       multi_xml
     thread_safe (0.3.4)
-    tzinfo (1.2.1)
+    tzinfo (1.2.2)
       thread_safe (~> 0.1)
     weather_jp (1.0.4)
       nokogiri (~> 1.5.5)
