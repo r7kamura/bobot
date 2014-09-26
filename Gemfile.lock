@@ -66,14 +66,12 @@ GEM
       redis (~> 3.0, >= 3.0.4)
     ruboty-alias (0.0.3)
       ruboty
+    ruboty-attendance (0.0.1)
+      ruboty
     ruboty-cron (0.0.9)
       activesupport
       chrono
       ruboty (>= 0.2.0)
-    ruboty-gamification (0.0.3)
-      faraday
-      faraday_middleware
-      ruboty
     ruboty-github (0.1.0)
       activesupport
       octokit
@@ -135,8 +133,8 @@ DEPENDENCIES
   rake
   ruboty!
   ruboty-alias
+  ruboty-attendance
   ruboty-cron
-  ruboty-gamification
   ruboty-github
   ruboty-google_image
   ruboty-imascg!
