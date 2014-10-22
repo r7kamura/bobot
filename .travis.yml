@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+- 2.0.0
+deploy:
+  provider: heroku
+  api_key:
+    secure: aIDMBDBqsK0CBVtfwsUplcZ+ePXi6aG03Wr6C0FzWzQ3SYM5vkaGX58mvEsinJc9+dnzwIVgKLI/15wbWFy7xdUozV/A8aJ3ofVMsN9f3a4j8mKyBRYjDU35qZ+zgze4arFWLVzpPeRZMY+YJNGammI4Y8MsRKs2Kv7Epf8EkjY=
+  app: bobot
+  on:
+    repo: r7kamura/bobot
