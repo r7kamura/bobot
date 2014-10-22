@@ -1,4 +1,4 @@
-# Ruboty
+# Ruboty [![Build Status](https://travis-ci.org/r7kamura/bobot.svg?branch=master)](https://travis-ci.org/r7kamura/bobot)
 Ruboty on somewhere.
 
 ## Setup
