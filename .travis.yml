@@ -4,7 +4,7 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: aIDMBDBqsK0CBVtfwsUplcZ+ePXi6aG03Wr6C0FzWzQ3SYM5vkaGX58mvEsinJc9+dnzwIVgKLI/15wbWFy7xdUozV/A8aJ3ofVMsN9f3a4j8mKyBRYjDU35qZ+zgze4arFWLVzpPeRZMY+YJNGammI4Y8MsRKs2Kv7Epf8EkjY=
-  app: bobot
+    secure: VuSjq1On/HdYNQdkJZLK4kWbkUjMiKhMAj59MgaoOf/mWT5CqYVJ8SolPhsaVXpdcviXHL2z9LpbBwCNtP6K3FIUyhWgKLFBA+NfgJl6MWBcNovKjwjlbRM31w0lGJ9ln2gQT5k76PftieS/l8uKbNxMpS5Rxphbnk8rp+rBGkI=
+  app: bobotonslack
   on:
     repo: r7kamura/bobot
