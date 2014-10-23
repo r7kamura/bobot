@@ -78,7 +78,7 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-hitozuma (0.0.2)
+    ruboty-hitozuma (0.0.3)
       ruboty
     ruboty-japan_weather (0.0.3)
       ruboty
