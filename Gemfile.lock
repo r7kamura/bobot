@@ -96,7 +96,7 @@ GEM
     ruboty-slack (0.1.6)
       ruboty
       xrc (>= 0.0.6)
-    ruboty-syoboi_calendar (0.0.6)
+    ruboty-syoboi_calendar (0.0.7)
       activesupport
       ruboty
       syoboi_calendar (= 0.3.1)
