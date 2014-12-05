@@ -26,6 +26,10 @@ GEM
     chrono (0.0.4)
       activesupport
     coderay (1.1.0)
+    docomoru (0.0.2)
+      activesupport
+      faraday
+      faraday_middleware
     dotenv (1.0.2)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
@@ -94,6 +98,9 @@ GEM
       activesupport
       ruboty
       syoboi_calendar (= 0.3.1)
+    ruboty-talk (0.0.1)
+      docomoru (>= 0.0.2)
+      ruboty (>= 1.1.0)
     ruboty-tumblr_image (0.0.2)
       faraday
       faraday_middleware
@@ -140,5 +147,6 @@ DEPENDENCIES
   ruboty-scorekeeper
   ruboty-slack
   ruboty-syoboi_calendar
+  ruboty-talk
   ruboty-tumblr_image
   ruboty-zoi (~> 1.1.0)
