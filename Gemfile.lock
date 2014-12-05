@@ -13,18 +13,6 @@ GIT
       nokogiri
       ruboty
 
-GIT
-  remote: git://github.com/sorah/ruboty.git
-  revision: 1ff6b3da03c0bc6139144f3a23663673c8acdc8d
-  ref: cant-compare-boolean
-  specs:
-    ruboty (1.0.2)
-      activesupport
-      bundler
-      dotenv
-      mem
-      slop
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -62,6 +50,12 @@ GEM
     redis (3.1.0)
     redis-namespace (1.5.1)
       redis (~> 3.0, >= 3.0.4)
+    ruboty (1.1.0)
+      activesupport
+      bundler
+      dotenv
+      mem
+      slop
     ruboty-alias (0.0.3)
       ruboty
     ruboty-attendance (0.0.2)
@@ -131,7 +125,7 @@ PLATFORMS
 DEPENDENCIES
   pry
   rake
-  ruboty!
+  ruboty
   ruboty-alias
   ruboty-attendance
   ruboty-cron

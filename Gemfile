@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "pry"
 gem "rake"
-gem "ruboty", github: 'sorah/ruboty', ref: 'cant-compare-boolean'
+gem "ruboty"
 gem "ruboty-alias"
 gem "ruboty-attendance"
 gem "ruboty-cron"
