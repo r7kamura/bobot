@@ -15,8 +15,11 @@ gem "ruboty-japan_weather"
 gem "ruboty-lgtm"
 gem "ruboty-redis"
 gem "ruboty-scorekeeper"
-gem "ruboty-slack"
 gem "ruboty-syoboi_calendar"
 gem "ruboty-talk"
 gem "ruboty-tumblr_image"
 gem "ruboty-zoi", "~> 1.1.0"
+
+group :production do
+  gem "ruboty-slack"
+end
