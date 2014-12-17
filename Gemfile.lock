@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git://github.com/sorah/ruboty-imasml.git
-  revision: 744b32507877064b3a3edb51459a86d25a37ca86
+  revision: 2ce6c3adc8e4e7dc4cb695773efd23be9d9ce8be
   specs:
     ruboty-imasml (0.0.1)
       nokogiri
