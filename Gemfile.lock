@@ -13,6 +13,14 @@ GIT
       nokogiri
       ruboty
 
+GIT
+  remote: git://github.com/sorah/ruboty-songinfo.git
+  revision: 5b329d5de7cc010b1d984660310cf52dab9594d1
+  specs:
+    ruboty-songinfo (0.1.0)
+      nokogiri
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -150,6 +158,7 @@ DEPENDENCIES
   ruboty-redis
   ruboty-scorekeeper
   ruboty-slack
+  ruboty-songinfo!
   ruboty-syoboi_calendar
   ruboty-talk
   ruboty-tumblr_image

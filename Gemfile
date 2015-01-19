@@ -15,6 +15,7 @@ gem "ruboty-japan_weather"
 gem "ruboty-lgtm"
 gem "ruboty-redis"
 gem "ruboty-scorekeeper"
+gem "ruboty-songinfo", github: 'sorah/ruboty-songinfo'
 gem "ruboty-syoboi_calendar"
 gem "ruboty-talk"
 gem "ruboty-tumblr_image"
