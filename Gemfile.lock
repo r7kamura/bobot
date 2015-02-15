@@ -46,14 +46,19 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.9.1)
       faraday (>= 0.7.4, < 0.10)
+    ffi (1.9.6)
     hashie (3.3.1)
     i18n (0.6.11)
+    ikku (0.0.4)
+      natto
     json (1.8.1)
     mem (0.1.5)
     method_source (0.8.2)
     minitest (5.5.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
+    natto (0.9.8)
+      ffi (>= 1.9.0)
     nokogiri (1.5.11)
     octokit (3.3.0)
       sawyer (~> 0.5.3)
@@ -93,6 +98,9 @@ GEM
     ruboty-japan_weather (0.0.3)
       ruboty
       weather_jp (~> 1.0)
+    ruboty-kokodeikku (0.0.3)
+      ikku (>= 0.0.4)
+      ruboty
     ruboty-lgtm (0.0.3)
       faraday
       faraday_middleware
@@ -154,6 +162,7 @@ DEPENDENCIES
   ruboty-imascg!
   ruboty-imasml!
   ruboty-japan_weather
+  ruboty-kokodeikku
   ruboty-lgtm
   ruboty-redis
   ruboty-scorekeeper

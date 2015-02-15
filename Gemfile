@@ -13,6 +13,7 @@ gem "ruboty-hitozuma"
 gem "ruboty-imascg", github: 'sorah/ruboty-imascg'
 gem "ruboty-imasml", github: 'sorah/ruboty-imasml'
 gem "ruboty-japan_weather"
+gem "ruboty-kokodeikku"
 gem "ruboty-lgtm"
 gem "ruboty-redis"
 gem "ruboty-scorekeeper"
