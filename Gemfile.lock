@@ -111,6 +111,8 @@ GEM
       ruboty
     ruboty-replace (0.0.1)
       ruboty
+    ruboty-ruby_eval (0.0.0)
+      ruboty
     ruboty-scorekeeper (0.0.2)
       ruboty
     ruboty-slack (0.1.6)
@@ -168,6 +170,7 @@ DEPENDENCIES
   ruboty-lgtm
   ruboty-redis
   ruboty-replace
+  ruboty-ruby_eval
   ruboty-scorekeeper
   ruboty-slack
   ruboty-songinfo!
