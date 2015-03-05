@@ -4,6 +4,7 @@ ruby '2.2.0'
 gem "pry"
 gem "rake"
 gem "ruboty"
+gem "ruboty-replace"
 gem "ruboty-alias"
 gem "ruboty-attendance"
 gem "ruboty-cron"

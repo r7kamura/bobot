@@ -109,6 +109,8 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-replace (0.0.1)
+      ruboty
     ruboty-scorekeeper (0.0.2)
       ruboty
     ruboty-slack (0.1.6)
@@ -165,6 +167,7 @@ DEPENDENCIES
   ruboty-kokodeikku
   ruboty-lgtm
   ruboty-redis
+  ruboty-replace
   ruboty-scorekeeper
   ruboty-slack
   ruboty-songinfo!
