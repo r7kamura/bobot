@@ -84,6 +84,9 @@ GEM
       ruboty (>= 1.1.1)
     ruboty-attendance (0.0.2)
       ruboty
+    ruboty-bundler (0.1.2)
+      ruboty (>= 1.2.1)
+      ruboty-github
     ruboty-cron (1.0.0)
       activesupport
       chrono
@@ -169,6 +172,7 @@ DEPENDENCIES
   ruboty
   ruboty-alias
   ruboty-attendance
+  ruboty-bundler
   ruboty-cron
   ruboty-echo
   ruboty-github
