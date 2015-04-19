@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: git://github.com/sorah/ruboty-monday_is_coming.git
-  revision: a373526d2a27d210f26e8ddb4d276099a62b6210
+  revision: 565b012de76715c5fa034f448c46f4908bfcc56e
   specs:
     ruboty-monday_is_coming (0.1.0)
       ruboty
@@ -47,7 +47,7 @@ GEM
       json
       rack
       slop
-    dotenv (2.0.0)
+    dotenv (2.0.1)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.9.1)
@@ -60,7 +60,7 @@ GEM
     json (1.8.2)
     mem (0.1.5)
     mini_portile (0.6.2)
-    minitest (5.5.1)
+    minitest (5.6.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     natto (0.9.9)
@@ -74,7 +74,7 @@ GEM
     redis (3.2.1)
     redis-namespace (1.5.2)
       redis (~> 3.0, >= 3.0.4)
-    ruboty (1.2.1)
+    ruboty (1.2.2)
       activesupport
       bundler
       dotenv
@@ -142,7 +142,7 @@ GEM
     sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
-    slop (4.0.0)
+    slop (4.1.0)
     syoboi_calendar (0.3.1)
       activesupport
       faraday
