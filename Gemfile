@@ -22,6 +22,7 @@ gem "ruboty-redis"
 gem "ruboty-ruby_eval"
 gem "ruboty-scorekeeper"
 gem "ruboty-songinfo", github: 'sorah/ruboty-songinfo'
+gem "ruboty-monday_is_coming", github: 'sorah/ruboty-monday_is_coming'
 gem "ruboty-syoboi_calendar"
 gem "ruboty-talk"
 gem "ruboty-tumblr_image"

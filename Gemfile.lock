@@ -14,6 +14,13 @@ GIT
       ruboty
 
 GIT
+  remote: git://github.com/sorah/ruboty-monday_is_coming.git
+  revision: a373526d2a27d210f26e8ddb4d276099a62b6210
+  specs:
+    ruboty-monday_is_coming (0.1.0)
+      ruboty
+
+GIT
   remote: git://github.com/sorah/ruboty-songinfo.git
   revision: 709566ef3b76cf9f3bd930d73d4d2dda474d7145
   specs:
@@ -183,6 +190,7 @@ DEPENDENCIES
   ruboty-japan_weather
   ruboty-kokodeikku
   ruboty-lgtm
+  ruboty-monday_is_coming!
   ruboty-redis
   ruboty-replace
   ruboty-ruby_eval
