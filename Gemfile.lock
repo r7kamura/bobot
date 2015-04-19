@@ -40,7 +40,6 @@ GEM
     addressable (2.3.8)
     chrono (0.0.6)
       activesupport
-    coderay (1.1.0)
     docomoru (0.1.2)
       activesupport
       faraday
@@ -60,7 +59,6 @@ GEM
       natto
     json (1.8.2)
     mem (0.1.5)
-    method_source (0.8.2)
     mini_portile (0.6.2)
     minitest (5.5.1)
     multi_xml (0.5.5)
@@ -71,11 +69,6 @@ GEM
       mini_portile (~> 0.6.0)
     octokit (3.8.0)
       sawyer (~> 0.6.0, >= 0.5.3)
-    pry (0.8.3)
-      coderay (>= 0.9.7)
-      method_source (>= 0.4.0)
-      ruby_parser (>= 2.0.5)
-      slop (>= 1.5.3)
     rack (1.6.0)
     rake (10.4.2)
     redis (3.2.1)
@@ -146,12 +139,9 @@ GEM
       ruboty
     ruboty-zoi (1.1.0)
       ruboty
-    ruby_parser (3.6.5)
-      sexp_processor (~> 4.1)
     sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
-    sexp_processor (4.5.0)
     slop (4.0.0)
     syoboi_calendar (0.3.1)
       activesupport
@@ -174,7 +164,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  pry
   rake
   ruboty
   ruboty-alias

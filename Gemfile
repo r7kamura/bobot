@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby '2.2.2'
 
-gem "pry"
+# gem "pry"
 gem "rake"
 gem "ruboty"
 gem "ruboty-replace"
