@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: git://github.com/sorah/ruboty-monday_is_coming.git
-  revision: 565b012de76715c5fa034f448c46f4908bfcc56e
+  revision: a8793b6ca39f040c0ce0503fc673db7cfcc33fd6
   specs:
     ruboty-monday_is_coming (0.1.0)
       ruboty
