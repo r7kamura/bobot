@@ -27,6 +27,7 @@ gem "ruboty-syoboi_calendar"
 gem "ruboty-talk"
 gem "ruboty-tumblr_image"
 gem "ruboty-zoi", "~> 1.1.0"
+gem "ruboty-kiatsu", github: 'yoshiori/ruboty-kiatsu'
 
 group :production do
   gem "ruboty-slack"
