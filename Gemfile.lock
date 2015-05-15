@@ -28,6 +28,15 @@ GIT
       nokogiri
       ruboty
 
+GIT
+  remote: git://github.com/yoshiori/ruboty-kiatsu.git
+  revision: 606a7648b7bdec1a86014cd65b1d60301ff228aa
+  specs:
+    ruboty-kiatsu (0.1.0)
+      faraday
+      faraday_middleware
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -177,6 +186,7 @@ DEPENDENCIES
   ruboty-imascg!
   ruboty-imasml!
   ruboty-japan_weather
+  ruboty-kiatsu!
   ruboty-kokodeikku
   ruboty-lgtm
   ruboty-monday_is_coming!
