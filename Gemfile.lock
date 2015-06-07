@@ -200,3 +200,6 @@ DEPENDENCIES
   ruboty-talk
   ruboty-tumblr_image
   ruboty-zoi (~> 1.1.0)
+
+BUNDLED WITH
+   1.10.3
