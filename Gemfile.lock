@@ -15,9 +15,9 @@ GIT
 
 GIT
   remote: git://github.com/sorah/ruboty-monday_is_coming.git
-  revision: a8793b6ca39f040c0ce0503fc673db7cfcc33fd6
+  revision: 2b87c885b86ea9acf1d037e39b010dcda5207bd3
   specs:
-    ruboty-monday_is_coming (0.1.0)
+    ruboty-monday_is_coming (0.3.0)
       ruboty
 
 GIT
@@ -66,10 +66,10 @@ GEM
     i18n (0.7.0)
     ikku (0.1.4)
       natto
-    json (1.8.2)
+    json (1.8.3)
     mem (0.1.5)
     mini_portile (0.6.2)
-    minitest (5.6.1)
+    minitest (5.7.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     natto (0.9.9)
