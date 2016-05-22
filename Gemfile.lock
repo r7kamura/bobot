@@ -136,6 +136,8 @@ GEM
       ruboty
     ruboty-replace (0.0.1)
       ruboty
+    ruboty-revision (1.0.0)
+      ruboty
     ruboty-ruby_eval (0.0.0)
       ruboty
     ruboty-scorekeeper (0.0.2)
@@ -201,6 +203,7 @@ DEPENDENCIES
   ruboty-monday_is_coming!
   ruboty-redis
   ruboty-replace
+  ruboty-revision
   ruboty-ruby_eval
   ruboty-scorekeeper
   ruboty-slack
