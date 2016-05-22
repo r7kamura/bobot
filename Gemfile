@@ -15,6 +15,7 @@ gem "ruboty-google_image"
 gem "ruboty-hitozuma"
 gem "ruboty-imascg", github: 'sorah/ruboty-imascg'
 gem "ruboty-imasml", github: 'sorah/ruboty-imasml'
+gem "ruboty-irasutoya", github: 'makimoto/ruboty-irasutoya'
 gem "ruboty-japan_weather"
 gem "ruboty-kokodeikku"
 gem "ruboty-lgtm"

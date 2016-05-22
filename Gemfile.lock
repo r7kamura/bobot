@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/makimoto/ruboty-irasutoya.git
+  revision: d47df26b179d51a857c0c59361ffa1adb3f55240
+  specs:
+    ruboty-irasutoya (0.1.0)
+      nokogiri
+      ruboty
+
+GIT
   remote: git://github.com/sorah/ruboty-imascg.git
   revision: efedb4c8622762dd953f38dc523ffb14122a32e2
   specs:
@@ -185,6 +193,7 @@ DEPENDENCIES
   ruboty-hitozuma
   ruboty-imascg!
   ruboty-imasml!
+  ruboty-irasutoya!
   ruboty-japan_weather
   ruboty-kiatsu!
   ruboty-kokodeikku
@@ -203,4 +212,4 @@ DEPENDENCIES
   xrc
 
 BUNDLED WITH
-   1.10.3
+   1.12.4
