@@ -130,7 +130,7 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-rainfall_jp (1.0.0)
+    ruboty-rainfall_jp (1.1.0)
       ruboty
     ruboty-redis (0.0.5)
       redis
