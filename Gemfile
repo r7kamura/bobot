@@ -18,6 +18,7 @@ gem "ruboty-irasutoya", github: 'makimoto/ruboty-irasutoya'
 gem "ruboty-japan_weather"
 gem "ruboty-kokodeikku"
 gem "ruboty-lgtm"
+gem "ruboty-rainfall_jp"
 gem "ruboty-redis"
 gem "ruboty-revision"
 gem "ruboty-ruby_eval"
