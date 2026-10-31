@@ -1,4 +1,8 @@
 # Ruboty [![Build Status](https://travis-ci.org/r7kamura/bobot.svg?branch=master)](https://travis-ci.org/r7kamura/bobot)
+
+> [!NOTE]
+> This project is archived because the external service it integrates with is no longer available, so I took that as an opportunity to archive it. If you would like to take over maintenance, please contact me somewhere.
+
 Ruboty on somewhere.
 
 ## Setup
